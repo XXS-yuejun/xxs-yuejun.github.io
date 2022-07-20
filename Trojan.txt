@@ -1,1 +1,1 @@
-trojan://trojan-daozhu-uallen-qbit-azure-hk@v2r.stivle.com:443/?sni=trojan-daozhu-uallen-qbit-azure-hk.kinhproxy.com#HongKong
+dHJvamFuOi8vdHJvamFuLWRhb3podS11YWxsZW4tcWJpdC1henVyZS1oa0B2MnIuc3RpdmxlLmNvbTo0NDMvP3NuaT10cm9qYW4tZGFvemh1LXVhbGxlbi1xYml0LWF6dXJlLWhrLmtpbmhwcm94eS5jb20jSG9uZ0tvbmc=
